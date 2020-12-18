@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "tp de node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node app.js"
+  },
+  "author": "Cindy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "html": "^1.0.0",
+    "mongoose": "^5.4.13",
+    "nodemon": "^1.19.4",
+    "restify": "^8.5.1"
+  }
+}
